@@ -19,4 +19,4 @@ associated with the Kalman filter (utilize duality of recursive filtering proble
 linear optimal control problems)
 * dimpulse.m - calculates impulse response functions (response of current and future
 state to random shock)
-\n\n extra information
+
